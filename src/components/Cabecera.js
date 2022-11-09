@@ -11,7 +11,7 @@ import React from "react";
 export default function Cabecera({ cantidad }) {
   return (
     <header>
-      <h1>Carrito de compras</h1>
+      <h1>Carrito de compras hola</h1>
       <p>
         Cantidad de productos: <span>{cantidad}</span>
       </p>
